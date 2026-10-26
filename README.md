@@ -50,7 +50,7 @@ and reliable software solutions.
 ### medml.ai
 
 **Software Development Engineer**  
-`Apr 2025 – Dec 2025`
+`Jan 2025 – Dec 2025`
 
 - Built Python-based analytics and automation pipelines for healthcare and insurance datasets
 - Reduced workflow execution time by **25%**
